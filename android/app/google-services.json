@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "437760057512",
+    "project_id": "provaandre2bim",
+    "storage_bucket": "provaandre2bim.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437760057512:android:50cd93f3a9b069bef3229d",
+        "android_client_info": {
+          "package_name": "com.example.provaandre2bim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABUZmRrBMYk4pedJmW0H-5LFquXvMnfGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
